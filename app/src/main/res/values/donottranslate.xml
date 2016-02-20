@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_key_language">pref_key_language</string>
+    <string name="pref_key_longer_result">pref_key_longer_result</string>
+    <string name="pref_key_recommend">pref_key_recommend</string>
+    <string name="pref_key_about">pref_key_about</string>
+    <string name="pref_key_feedback">pref_key_feedback</string>
+    <string name="pref_key_donate">pref_key_donate</string>
+    <string name="pref_value_language_english">en</string>
+    <string name="pref_value_language_french">fr</string>
+    <string name="pref_value_language_japanese">jp</string>
+    <string name="pref_value_language_korean">ko</string>
+    <string name="pref_value_language_thai">th</string>
+    <string name="pref_value_language_german">de</string>
+    <string name="pref_value_language_russian">ru</string>
+    <string name="pref_value_language_spanish">es</string>
+    <string name="pref_value_language_chinese">zh</string>
+    <string name="pref_value_language_portuguese">pt</string>
+    <string name="pref_value_language_arabic">ar</string>
+    <string name="pref_value_language_italian">it</string>
+    <string name="pref_default_language_value">@string/pref_value_language_english</string>
+    
+</resources>

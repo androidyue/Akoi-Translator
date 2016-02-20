@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">拷译</string>
+    <string name="app_title">拷译，拷贝即翻译!</string>
+    <string name="pref_select_language_title">目标语言</string>
+    <string name="language_english">英语</string>
+    <string name="language_french">法语</string>
+    <string name="language_japanese">日语</string>
+    <string name="language_korean">韩语</string>
+    <string name="language_thai">泰语</string>
+    <string name="language_german">德语</string>
+    <string name="language_russian">俄语</string>
+    <string name="language_spanish">西班牙语</string>
+    <string name="language_chinese">汉语</string>
+    <string name="language_portuguese">葡萄牙语</string>
+    <string name="language_arabic">阿拉伯语</string>
+    <string name="language_italian">意大利语</string>
+	<string name="about">关于</string>
+	<string name="about_summary">如何工作和提示</string>
+	<string name="feedback">反馈</string>
+	<string name="feedback_summary">帮助我改善大家的使用体验</string>
+	<string name="longer_reuslt">结果较长时间展示</string>
+	<string name="recommend">猜你喜欢的Apps</string>
+	<string name="recommend_summary">简短视频推荐你可能喜欢的应用或游戏</string>
+	<string name="ad_prompt">玩命加载失败了，稍后再试吧</string>
+	<string name="ad_prompt_see_many_times">供不应求了，您还是歇一会儿看看书吧</string>
+	<string name="about_dialog_content">拷译是一款超级便捷的翻译工具，其理念就是拷贝即翻译。\n\n
+	    通常情况下，我们在阅读外文文章时遇到不懂的单词，常见的步骤就是，复制单词，然后切换到桌面，打开字典，进行翻译，理解了意思之后，然后退回到阅读软件，其实就在这些繁琐的过程中，我们阅读很容易被打断，进而影响阅读外文的效率。\n\n
+	    拷译则解决了这个问题，在阅读软件中遇到了生词，我们只需要复制一下，然后生词对应的意思就能立刻出来，省去了繁琐的切换，让你专注阅读不分心。\n\n
+	    为了更好使用本应用，请将本应用加入到腾讯手机管家这类应用的信任列表。</string>
+	<string name="donate">捐赠</string>
+	<string name="donate_summary">支持微信，支付宝，Paypal捐赠!</string>
+</resources>

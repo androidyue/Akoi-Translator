@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_default_language_value">@string/pref_value_language_chinese</string>
+</resources>
